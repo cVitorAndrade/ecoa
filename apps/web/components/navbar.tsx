@@ -85,7 +85,7 @@ const Navbar = ({
   className,
 }: Navbar1Props) => {
   return (
-    <section className={cn("py-4", className)}>
+    <section className={cn("py-4 border-b shadow-md", className)}>
       <div className="px-4">
         <nav className="hidden items-center justify-between lg:flex">
           <div className="flex items-center gap-6">
