@@ -44,7 +44,7 @@ export default function RootLayout({
     <html lang="pt-br" suppressHydrationWarning>
       <body
         className={cn(
-          "antialiased",
+          "antialiased h-full min-h-screen light",
           montserrat.variable,
           merriweather.variable,
           sourceCodePro.variable,
