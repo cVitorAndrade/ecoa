@@ -67,7 +67,7 @@ const Navbar = ({
     { title: "Mapa", url: "#" },
     {
       title: "Ocorrências",
-      url: "#",
+      url: "/app/occurrences",
     },
     {
       title: "Alertas",
